@@ -1,0 +1,19 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "description": "This is an app using grunt instead of prepros",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/higgintop/grunt-test-project"
+  },
+  "author": "Allison Higginbotham <higgintop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/higgintop/grunt-test-project/issues"
+  },
+  "homepage": "https://github.com/higgintop/grunt-test-project"
+}
